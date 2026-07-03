@@ -6,6 +6,12 @@
       "sourceType": "github",
       "skillPath": "skills/marketing-psychology/SKILL.md",
       "computedHash": "50d735eb0f5c36f379ed2200f21aeacc9b9ad85667b5d33ec6111857352a1340"
+    },
+    "skill-finder": {
+      "source": "qwwiwi/skill-finder",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "b9095ad94a8931af9d9f41a46aeb33d974ba2416bdb4c65639cd15a90e0c2a11"
     }
   }
 }
