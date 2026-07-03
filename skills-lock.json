@@ -12,6 +12,12 @@
       "sourceType": "github",
       "skillPath": "SKILL.md",
       "computedHash": "b9095ad94a8931af9d9f41a46aeb33d974ba2416bdb4c65639cd15a90e0c2a11"
+    },
+    "nano-banana-2": {
+      "source": "runcomfy-com/skills",
+      "sourceType": "github",
+      "skillPath": "nano-banana-2/SKILL.md",
+      "computedHash": "794b82e5f8cc0dcac5c350127ac44b3134c1f1af6d83a46b2dc1cf00f2dc8db3"
     }
   }
 }
