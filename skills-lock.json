@@ -7,6 +7,12 @@
       "skillPath": "skills/marketing-psychology/SKILL.md",
       "computedHash": "50d735eb0f5c36f379ed2200f21aeacc9b9ad85667b5d33ec6111857352a1340"
     },
+    "nano-banana-2": {
+      "source": "runcomfy-com/skills",
+      "sourceType": "github",
+      "skillPath": "nano-banana-2/SKILL.md",
+      "computedHash": "1f8e3c29a2ac938e8f8d874a699ebcd4ed49d604cc3b8ea45d2eeadfc84f8382"
+    },
     "skill-finder": {
       "source": "qwwiwi/skill-finder",
       "sourceType": "github",
